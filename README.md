@@ -12,7 +12,7 @@ NumPy
 Matplotlib & Seaborn – visualizations
 IDLE
 
-🔍 Key Steps in the Analysis
+🔍 Key Steps in the Analysis :
 1️⃣ Data Cleaning
 Handled missing values
 Removed duplicates
